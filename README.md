@@ -1,11 +1,13 @@
 ![](https://user-images.githubusercontent.com/40906718/61852826-031e5800-aed8-11e9-98e4-4841bf13d4ed.gif)
+
+
 <p align="Center">
 Created by <a href="https://github.com/vt1998"><strong>Vishal Tulsani</strong></a>
 </p>
 
-# Data Science Cheatsheets
+# Cheatsheets
 
-List of Data Science Cheatsheets :
+List of Cheatsheets :
 
 ## Table of Contents
 - [Artificial Intelligence](https://github.com/vt1998/Cheat-Sheets/tree/master/Artificial%20Intelligence)
